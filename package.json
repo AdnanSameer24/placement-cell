@@ -1,0 +1,20 @@
+{
+  "name": "career-camp-project",
+  "version": "1.0.0",
+  "description": "This is a project assigned by coding ninjas as a backend skill test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdnanSameer1724/career-camp.git"
+  },
+  "author": "Adnan Sameer Z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdnanSameer1724/career-camp/issues"
+  },
+  "homepage": "https://github.com/AdnanSameer1724/career-camp#readme"
+}
